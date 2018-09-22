@@ -1,0 +1,5 @@
+c:\users\mani\documents\visual studio 2010\Projects\customerdata\customerdata\bin\customerdata.dll
+c:\users\mani\documents\visual studio 2010\Projects\customerdata\customerdata\bin\customerdata.pdb
+c:\users\mani\documents\visual studio 2010\Projects\customerdata\customerdata\obj\Debug\ResolveAssemblyReference.cache
+c:\users\mani\documents\visual studio 2010\Projects\customerdata\customerdata\obj\Debug\customerdata.dll
+c:\users\mani\documents\visual studio 2010\Projects\customerdata\customerdata\obj\Debug\customerdata.pdb
